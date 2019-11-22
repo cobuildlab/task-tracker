@@ -13,7 +13,7 @@ class Application extends React.PureComponent {
 
     if (message) {
       // eslint-disable-next-line no-console
-      console.error(message);
+      // console.log(`SUCCESS!, but anyway:`,message);
     }
   };
 
